@@ -4,7 +4,7 @@ public class Ternario {
 
 	public static void main(String[] args) {
 
-		int calificacion = 4;
+		int calificacion = 5;
 
 		System.out.println((calificacion >= 5 ? "Has aprobado" : "Has suspendido"));
 	}
