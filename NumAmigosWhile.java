@@ -20,8 +20,6 @@ public class NumAmigosWhile {
             if (numero % i == 0) {
                 suma += i;
             }
-        }
-        return suma;
     }
     */
 
