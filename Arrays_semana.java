@@ -1,9 +1,7 @@
 package tema3_java;
-
-public class Arrays1 {
+public class Arrays_semana {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String[] weekDays = new String[7];
 		weekDays[0] = "Lunes";
 		weekDays[1] = "Martes";
